@@ -12,7 +12,7 @@ Applying the code provisions:
 The code does not provision services that are not necessary but might be beneficial in the future 
 for cost saving reasons. 
 Those include:
-- ALB (Application Load Balancer) - routing handled purely with NGINX
+- ALB (Application Load Balancer)
 - ...
 
 ## Useful commands
