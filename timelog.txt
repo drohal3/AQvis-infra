@@ -1,0 +1,4 @@
+2024-07-08 8h defining infra in tf
+2024-07-09 4.5h figuring out how to configure nginx.conf with Terraform
+2024-07-11 xh figuring out to correctly configure reverse proxy with nginx - debugging, try and error, etc.
+              dealing with commited secrets
